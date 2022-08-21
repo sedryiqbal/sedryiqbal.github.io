@@ -1,0 +1,40 @@
+.banner {
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;;
+} 
+
+
+.About {
+    background: url("https://www.goodnewsfromindonesia.id/uploads/post/large-growth-mindset-804f4564e6bf77cbb5a7d6c0e977ce47.jpg")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 1%;
+    padding-bottom: 10%;
+    color: #fff;
+} 
+
+
+h2{background-color:black; color:#fff;padding:10px;}
+p{background-color:black;color:#fff;padding:10px;}
+
+.modal-content{background-color:black; color:#fff;padding:10px;}
+
+
+.crop-img {
+    object-fit: cover;
+}
+
+.Contact{
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+  }
+  
+
